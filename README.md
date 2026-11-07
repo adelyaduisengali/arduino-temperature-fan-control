@@ -52,7 +52,7 @@ The Arduino GND and the battery negative terminal share a common ground.
 ## Demo
 **Circuit (Tinkercad):**
 
-![Circuit](circuit.png)
+![Circuit](circuit.jpg)
 
 **Schematic:**
 
@@ -60,7 +60,7 @@ The Arduino GND and the battery negative terminal share a common ground.
 
 **Serial Monitor output:**
 
-![Serial Monitor](serial-monitor.png)
+![Serial Monitor](serial-monitor.jpg)
 
 ## Code
 See [`fan_control.ino`](fan_control.ino).
